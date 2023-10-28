@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Mukherjee"
+  given-names: "Chandrika"
+- family-names: "Prasad"
+  given-names: "Akhil"
+title: "ChatGPT Sentiment Analysis"
+version: 1.0.0
+date-released: 2023-10-27
+url: "https://github.com/chandms/ChatGPT-Tweets-Analysis"
